@@ -1,11 +1,11 @@
 # Options Volatility Tracker & Backtesting Framework
 
 > **Status:** Active Research & Development  
-> **Privacy Note:** The core trading logic, Charles Schwab API OAuth handlers, database reset scripts, and proprietary alpha models are stored in a local, private Git repository to protect intellectual property and credential security. This repository serves as a **public documentation shell** to highlight the architecture and workflow.
+> **Privacy Note:** The private research/backtesting code, Charles Schwab API OAuth handlers, database reset scripts, and experimental strategy research and local model artifacts are stored in a local, private Git repository to protect credential security and keep runtime state private. This repository serves as a **public documentation shell** to highlight the architecture and workflow.
 
 ## Project Overview
 
-A comprehensive Python-based backtesting framework and options analytics tool designed to process high-frequency market data, evaluate options pricing metrics, and test quantitative strategies.
+A Python-based backtesting and options analytics research project designed to process historical market data, evaluate options pricing metrics, and study quantitative analytics and backtesting concepts.
 
 ### Key Capabilities
 
